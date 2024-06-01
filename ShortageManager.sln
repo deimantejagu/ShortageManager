@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortageManager", "ShortageManager\ShortageManager.csproj", "{EB5D11C0-C202-4A8E-91A5-A1372F2AB6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{173E8CE6-A62F-4604-8CE8-5DE0F36E2407}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5D11C0-C202-4A8E-91A5-A1372F2AB6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5D11C0-C202-4A8E-91A5-A1372F2AB6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5D11C0-C202-4A8E-91A5-A1372F2AB6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5D11C0-C202-4A8E-91A5-A1372F2AB6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{173E8CE6-A62F-4604-8CE8-5DE0F36E2407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173E8CE6-A62F-4604-8CE8-5DE0F36E2407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173E8CE6-A62F-4604-8CE8-5DE0F36E2407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173E8CE6-A62F-4604-8CE8-5DE0F36E2407}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

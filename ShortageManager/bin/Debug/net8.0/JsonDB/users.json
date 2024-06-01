@@ -1,0 +1,20 @@
+[
+  {
+    "UserId": "2e388483-1a3b-4b19-8ad7-adb116854b08",
+    "UserName": "Rokas",
+    "PasswordHash": "$2a$10$YEXzvLQvnYwXGfuxJos.P.FpbF2Ow1.n7ejUmEG9wTMLrsjnVGZsO",
+    "IsAdmin": true
+  },
+  {
+    "UserId": "fc0c35a2-22ac-40ad-9be9-a1c878ee6e67",
+    "UserName": "Deimante",
+    "PasswordHash": "$2a$10$8tjS5bJvu5tt2Bza5Lu6CeYp6RHbjQQFHZwKBkNLsEYuas1bk.jPS",
+    "IsAdmin": false
+  },
+  {
+    "UserId": "4a88fbce-ac3d-4fa6-930a-46e6ad889857",
+    "UserName": "Tomas",
+    "PasswordHash": "$2a$10$.oN47fJZXKnuftyM9FhEIeTY0JaTMeG5pCK4P/CVQWrpgk9bepKEO",
+    "IsAdmin": false
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "ShortageId": "7032e3df-cab9-40d5-9f3c-854ce537730b",
+    "UserId": "011d2b33-574f-447a-8bcf-a188a63f3574",
+    "Title": "Test Title",
+    "Name": "Test Name",
+    "Room": 1,
+    "Category": 1,
+    "Priority": 5,
+    "CreatedOn": "2024-06-01"
+  }
+]

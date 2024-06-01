@@ -1,0 +1,82 @@
+[
+  {
+    "ShortageId": "56919e79-78e3-45e7-80c1-6ff54869a541",
+    "UserId": "2e388483-1a3b-4b19-8ad7-adb116854b08",
+    "Title": "Naujas",
+    "Name": "Kambarys",
+    "Room": 1,
+    "Category": 1,
+    "Priority": 10,
+    "CreatedOn": "2024-06-01"
+  },
+  {
+    "ShortageId": "219613ea-b153-421d-ab5f-ad079561819f",
+    "UserId": "2e388483-1a3b-4b19-8ad7-adb116854b08",
+    "Title": "Kazka",
+    "Name": "Veikiam",
+    "Room": 0,
+    "Category": 2,
+    "Priority": 10,
+    "CreatedOn": "2024-05-04"
+  },
+  {
+    "ShortageId": "31fd4899-9bd2-45b9-9771-0de5b3c802dd",
+    "UserId": "4a88fbce-ac3d-4fa6-930a-46e6ad889857",
+    "Title": "Nu",
+    "Name": "Nu",
+    "Room": 2,
+    "Category": 2,
+    "Priority": 8,
+    "CreatedOn": "2024-06-01"
+  },
+  {
+    "ShortageId": "afaf4a82-ffaa-42a4-afa1-76f1c67f6af6",
+    "UserId": "fc0c35a2-22ac-40ad-9be9-a1c878ee6e67",
+    "Title": "Pamoka",
+    "Name": "Pamokele",
+    "Room": 0,
+    "Category": 2,
+    "Priority": 2,
+    "CreatedOn": "2024-06-01"
+  },
+  {
+    "ShortageId": "9a380f0d-0fad-47bb-b24d-09b0e43790f7",
+    "UserId": "fc0c35a2-22ac-40ad-9be9-a1c878ee6e67",
+    "Title": "Duok duok duok",
+    "Name": "I snuki duok",
+    "Room": 2,
+    "Category": 2,
+    "Priority": 9,
+    "CreatedOn": "2024-06-01"
+  },
+  {
+    "ShortageId": "1abd4367-9ac5-4d04-8340-ad728bd7de2f",
+    "UserId": "fc0c35a2-22ac-40ad-9be9-a1c878ee6e67",
+    "Title": "Hiiiii",
+    "Name": "Huuuuu",
+    "Room": 0,
+    "Category": 0,
+    "Priority": 6,
+    "CreatedOn": "2024-02-04"
+  },
+  {
+    "ShortageId": "faf38d65-4844-4f54-a729-611a476e91b3",
+    "UserId": "4a88fbce-ac3d-4fa6-930a-46e6ad889857",
+    "Title": "Kuriam ",
+    "Name": "Naujaa",
+    "Room": 2,
+    "Category": 2,
+    "Priority": 2,
+    "CreatedOn": "2024-06-01"
+  },
+  {
+    "ShortageId": "090c0588-6bbf-460d-b061-5dd65212d8f1",
+    "UserId": "4a88fbce-ac3d-4fa6-930a-46e6ad889857",
+    "Title": "Nu",
+    "Name": "jjjjj",
+    "Room": 0,
+    "Category": 2,
+    "Priority": 2,
+    "CreatedOn": "2024-06-01"
+  }
+]
