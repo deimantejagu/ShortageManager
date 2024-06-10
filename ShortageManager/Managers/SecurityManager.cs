@@ -14,7 +14,7 @@ public class SecurityManager
 
     public User LoginOrRegister()
     {
-        Console.WriteLine("Welcome to the Visma shortage manager!");
+        Console.WriteLine("Welcome to the shortage manager!");
         
         while (true)
         {

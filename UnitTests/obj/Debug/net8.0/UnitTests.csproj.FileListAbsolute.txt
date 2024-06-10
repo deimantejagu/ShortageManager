@@ -117,3 +117,4 @@ C:\Users\deija\RiderProjects\ShortageManager\UnitTests\obj\Debug\net8.0\refint\U
 C:\Users\deija\RiderProjects\ShortageManager\UnitTests\obj\Debug\net8.0\UnitTests.pdb
 C:\Users\deija\RiderProjects\ShortageManager\UnitTests\obj\Debug\net8.0\UnitTests.genruntimeconfig.cache
 C:\Users\deija\RiderProjects\ShortageManager\UnitTests\obj\Debug\net8.0\ref\UnitTests.dll
+C:\Users\deija\RiderProjects\ShortageManager\UnitTests\obj\Debug\net8.0\UnitTests.sourcelink.json

@@ -8,7 +8,7 @@ public static class MenuManager
 {
     public static void CloseProgram()
     {
-        Console.WriteLine("Visma shortage manager is closed");
+        Console.WriteLine("Shortage manager is closed");
         Environment.Exit(0);
     }
 

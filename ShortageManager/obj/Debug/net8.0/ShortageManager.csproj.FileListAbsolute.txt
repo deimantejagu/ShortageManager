@@ -20,3 +20,4 @@ C:\Users\deija\RiderProjects\ShortageManager\ShortageManager\bin\Debug\net8.0\Js
 C:\Users\deija\RiderProjects\ShortageManager\ShortageManager\bin\Debug\net8.0\JsonDB\users.json
 C:\Users\deija\RiderProjects\ShortageManager\ShortageManager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\deija\RiderProjects\ShortageManager\ShortageManager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\deija\RiderProjects\ShortageManager\ShortageManager\obj\Debug\net8.0\ShortageManager.sourcelink.json
